@@ -1,0 +1,6 @@
+cmake
+Flask==2.2.5
+opencv-python
+face_recognition==1.3.0
+ultralytics
+gunicorn
